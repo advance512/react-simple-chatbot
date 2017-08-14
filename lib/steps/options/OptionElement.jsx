@@ -5,10 +5,9 @@ const OptionElement = styled.a`
   background: '#fff';
   border-radius: 22px;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
-  color: ${({ theme }) => theme.botFontColor};
+  color: "#293846";
   display: inline-block;
-  font-size: 14px;
-  padding: 12px;
+  padding: 9px;
 
   &:hover { opacity: .7; }
 `;
